@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+
+}
+
+p{
+    color: white;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
+    border: 1px solid #ccc;
+    justify-content: center;
+}
